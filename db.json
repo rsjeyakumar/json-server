@@ -1,0 +1,172 @@
+{
+  "category": [
+    {
+      "id": 1,
+      "title": "Men"
+    },
+    {
+      "id": 2,
+      "title": "Women"
+    },
+    {
+      "title": "Kids",
+      "id": 3
+    },
+    {
+      "title": "Toys",
+      "id": 4
+    },
+    {
+      "title": "Infants",
+      "id": 5
+    }
+  ],
+  "shoplist": [
+    {
+      "id": 0,
+      "name": "Fashion 1",
+      "avatar": "https://shop.polymer-project.org/esm-bundled/data/images/10-15068A.jpg",
+      "price": "1000"
+    },
+    {
+      "id": 1,
+      "name": "Fashion 2",
+      "avatar": "https://shop.polymer-project.org/esm-bundled/data/images/10-14133B.jpg",
+      "price": "1400"
+    },
+    {
+      "id": 2,
+      "name": "Fashion 3",
+      "avatar": "https://shop.polymer-project.org/esm-bundled/data/images/10-14153B.jpg",
+      "price": "1700"
+    },
+    {
+      "id": 3,
+      "name": "Fashion 4",
+      "avatar": "https://shop.polymer-project.org/esm-bundled/data/images/10-14216B.jpg",
+      "price": "2500"
+    },
+    {
+      "id": 4,
+      "name": "Fashion 5",
+      "avatar": "https://shop.polymer-project.org/esm-bundled/data/images/10-14217B.jpg",
+      "price": "1850"
+    },
+    {
+      "id": 4,
+      "name": "Fashion 5",
+      "avatar": "https://shop.polymer-project.org/esm-bundled/data/images/10-14217B.jpg",
+      "price": "1850"
+    }
+  ],
+  "cart": [
+    {
+      "itemId": "0",
+      "name": "Fashion 1",
+      "price": "1000",
+      "avatar": "https://shop.polymer-project.org/esm-bundled/data/images/10-15068A.jpg",
+      "size": "small",
+      "quantity": "32",
+      "id": 9
+    },
+    {
+      "itemId": "4",
+      "name": "Fashion 5",
+      "price": "1850",
+      "avatar": "https://shop.polymer-project.org/esm-bundled/data/images/10-14217B.jpg",
+      "size": "small",
+      "quantity": "3",
+      "id": 10
+    },
+    {
+      "itemId": "2",
+      "name": "Fashion 3",
+      "price": "1700",
+      "avatar": "https://shop.polymer-project.org/esm-bundled/data/images/10-14153B.jpg",
+      "size": "small",
+      "quantity": "33",
+      "id": 11
+    },
+    {
+      "itemId": "2",
+      "name": "Fashion 3",
+      "price": "1700",
+      "avatar": "https://shop.polymer-project.org/esm-bundled/data/images/10-14153B.jpg",
+      "size": "small",
+      "quantity": "22",
+      "id": 12
+    },
+    {
+      "itemId": "1",
+      "name": "Fashion 2",
+      "price": "1400",
+      "avatar": "https://shop.polymer-project.org/esm-bundled/data/images/10-14133B.jpg",
+      "size": "small",
+      "quantity": "23",
+      "id": 13
+    },
+    {
+      "itemId": "1",
+      "name": "Fashion 2",
+      "price": "1400",
+      "avatar": "https://shop.polymer-project.org/esm-bundled/data/images/10-14133B.jpg",
+      "size": "small",
+      "quantity": "3",
+      "id": 14
+    },
+    {
+      "itemId": "3",
+      "name": "Fashion 4",
+      "price": "2500",
+      "avatar": "https://shop.polymer-project.org/esm-bundled/data/images/10-14216B.jpg",
+      "size": "small",
+      "quantity": "5",
+      "id": 15
+    },
+    {
+      "itemId": "3",
+      "name": "Fashion 4",
+      "price": "2500",
+      "avatar": "https://shop.polymer-project.org/esm-bundled/data/images/10-14216B.jpg",
+      "size": "small",
+      "quantity": "4",
+      "id": 16
+    },
+    {
+      "itemId": "3",
+      "name": "Fashion 4",
+      "price": "2500",
+      "avatar": "https://shop.polymer-project.org/esm-bundled/data/images/10-14216B.jpg",
+      "size": "small",
+      "quantity": "2",
+      "id": 17
+    },
+    {
+      "itemId": "3",
+      "name": "Fashion 4",
+      "price": "2500",
+      "avatar": "https://shop.polymer-project.org/esm-bundled/data/images/10-14216B.jpg",
+      "size": "small",
+      "quantity": "4",
+      "id": 18
+    },
+    {
+      "itemId": "0",
+      "name": "Fashion 1",
+      "price": "1000",
+      "avatar": "https://shop.polymer-project.org/esm-bundled/data/images/10-15068A.jpg",
+      "size": "small",
+      "quantity": "2",
+      "id": 19
+    },
+    {
+      "itemId": "4",
+      "name": "Fashion 5",
+      "price": "1850",
+      "avatar": "https://shop.polymer-project.org/esm-bundled/data/images/10-14217B.jpg",
+      "size": "small",
+      "quantity": "4",
+      "id": 20
+    }
+  ]
+}
